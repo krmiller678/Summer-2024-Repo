@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3DDC4D-DCA8-4377-A282-6CAB5A3C88F1}|Module2Examples\\Module2Examples.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\someFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B3DDC4D-DCA8-4377-A282-6CAB5A3C88F1}|Module2Examples\\Module2Examples.vcxproj|solutionrelative:Module2Examples\\someFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3DDC4D-DCA8-4377-A282-6CAB5A3C88F1}|Module2Examples\\Module2Examples.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\someFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B3DDC4D-DCA8-4377-A282-6CAB5A3C88F1}|Module2Examples\\Module2Examples.vcxproj|solutionrelative:Module2Examples\\someFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3DDC4D-DCA8-4377-A282-6CAB5A3C88F1}|Module2Examples\\Module2Examples.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\Module2Examples.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B3DDC4D-DCA8-4377-A282-6CAB5A3C88F1}|Module2Examples\\Module2Examples.vcxproj|solutionrelative:Module2Examples\\Module2Examples.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "someFile.cpp",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\someFile.cpp",
+              "RelativeDocumentMoniker": "Module2Examples\\someFile.cpp",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\someFile.cpp",
+              "RelativeToolTip": "Module2Examples\\someFile.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:04:57.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "someFile.h",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\someFile.h",
+              "RelativeDocumentMoniker": "Module2Examples\\someFile.h",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\someFile.h",
+              "RelativeToolTip": "Module2Examples\\someFile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T02:02:56.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module2Examples.cpp",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\Module2Examples.cpp",
+              "RelativeDocumentMoniker": "Module2Examples\\Module2Examples.cpp",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\Module2Examples\\Module2Examples\\Module2Examples.cpp",
+              "RelativeToolTip": "Module2Examples\\Module2Examples.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T01:02:09.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

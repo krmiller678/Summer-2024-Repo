@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29318E76-1FC4-40DE-9C2A-F3C1A407E63C}|Module2_HeroClass\\Module2_HeroClass.vcxproj|Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Hero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29318E76-1FC4-40DE-9C2A-F3C1A407E63C}|Module2_HeroClass\\Module2_HeroClass.vcxproj|solutionrelative:Module2_HeroClass\\Hero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29318E76-1FC4-40DE-9C2A-F3C1A407E63C}|Module2_HeroClass\\Module2_HeroClass.vcxproj|Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Hero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29318E76-1FC4-40DE-9C2A-F3C1A407E63C}|Module2_HeroClass\\Module2_HeroClass.vcxproj|solutionrelative:Module2_HeroClass\\Hero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29318E76-1FC4-40DE-9C2A-F3C1A407E63C}|Module2_HeroClass\\Module2_HeroClass.vcxproj|Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Mod3_Pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29318E76-1FC4-40DE-9C2A-F3C1A407E63C}|Module2_HeroClass\\Module2_HeroClass.vcxproj|solutionrelative:Module2_HeroClass\\Mod3_Pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29318E76-1FC4-40DE-9C2A-F3C1A407E63C}|Module2_HeroClass\\Module2_HeroClass.vcxproj|Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Module2_HeroClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29318E76-1FC4-40DE-9C2A-F3C1A407E63C}|Module2_HeroClass\\Module2_HeroClass.vcxproj|solutionrelative:Module2_HeroClass\\Module2_HeroClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Module2_HeroClass.cpp",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Module2_HeroClass.cpp",
+              "RelativeDocumentMoniker": "Module2_HeroClass\\Module2_HeroClass.cpp",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Module2_HeroClass.cpp",
+              "RelativeToolTip": "Module2_HeroClass\\Module2_HeroClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T05:07:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mod3_Pointers.cpp",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Mod3_Pointers.cpp",
+              "RelativeDocumentMoniker": "Module2_HeroClass\\Mod3_Pointers.cpp",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Mod3_Pointers.cpp",
+              "RelativeToolTip": "Module2_HeroClass\\Mod3_Pointers.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T04:49:07.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hero.cpp",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Hero.cpp",
+              "RelativeDocumentMoniker": "Module2_HeroClass\\Hero.cpp",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Hero.cpp",
+              "RelativeToolTip": "Module2_HeroClass\\Hero.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T00:34:52.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hero.h",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Hero.h",
+              "RelativeDocumentMoniker": "Module2_HeroClass\\Hero.h",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\HeroClass\\Module2_HeroClass\\Hero.h",
+              "RelativeToolTip": "Module2_HeroClass\\Hero.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-02T04:12:20.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

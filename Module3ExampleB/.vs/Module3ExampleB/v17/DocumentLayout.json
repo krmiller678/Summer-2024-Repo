@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CODE\\UF SUMMER 2024\\Module3ExampleB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5CF276-E895-4F5C-BB32-5F503D956013}|Module3ExampleB\\Module3ExampleB.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Module3ExampleB\\Module3ExampleB\\Module3ExampleB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F5CF276-E895-4F5C-BB32-5F503D956013}|Module3ExampleB\\Module3ExampleB.vcxproj|solutionrelative:Module3ExampleB\\Module3ExampleB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module3ExampleB.cpp",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Module3ExampleB\\Module3ExampleB\\Module3ExampleB.cpp",
+              "RelativeDocumentMoniker": "Module3ExampleB\\Module3ExampleB.cpp",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\Module3ExampleB\\Module3ExampleB\\Module3ExampleB.cpp",
+              "RelativeToolTip": "Module3ExampleB\\Module3ExampleB.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T16:12:21.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

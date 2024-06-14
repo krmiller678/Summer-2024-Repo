@@ -1,0 +1,7 @@
+﻿  Dealership.cpp
+  Lab2_Classes.cpp
+  Showroom.cpp
+Z:\CODE\UF SUMMER 2024\Lab2_Classes\Lab2_Classes\Showroom.cpp(51,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Vehicle.cpp
+  Generating Code...
+  Lab2_Classes.vcxproj -> Z:\CODE\UF SUMMER 2024\Lab2_Classes\x64\Debug\Lab2_Classes.exe

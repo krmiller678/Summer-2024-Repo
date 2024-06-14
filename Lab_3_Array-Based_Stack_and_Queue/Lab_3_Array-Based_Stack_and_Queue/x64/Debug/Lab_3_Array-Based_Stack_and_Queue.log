@@ -1,0 +1,30 @@
+﻿  Lab_3_Array-Based_Stack_and_Queue.cpp
+Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\ABQ.h(120,16): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Lab_3_Array-Based_Stack_and_Queue.cpp')
+  Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\ABQ.h(120,16):
+  the template instantiation context (the oldest one first) is
+  	Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue.cpp(11,11):
+  	see reference to class template instantiation 'ABQ<int>' being compiled
+  	Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\ABQ.h(116,1):
+  	while compiling class template member function 'void ABQ<int>::enqueue(T)'
+          with
+          [
+              T=int
+          ]
+  		Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue.cpp(17,17):
+  		see the first reference to 'ABQ<int>::enqueue' in 'main'
+  
+Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\ABQ.h(146,17): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Lab_3_Array-Based_Stack_and_Queue.cpp')
+  Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\ABQ.h(146,17):
+  the template instantiation context (the oldest one first) is
+  	Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\ABQ.h(139,1):
+  	while compiling class template member function 'T ABQ<T>::dequeue(void)'
+          with
+          [
+              T=int
+          ]
+  		Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue\Lab_3_Array-Based_Stack_and_Queue.cpp(26,45):
+  		see the first reference to 'ABQ<int>::dequeue' in 'main'
+  
+  Lab_3_Array-Based_Stack_and_Queue.vcxproj -> Z:\CODE\UF SUMMER 2024\Lab_3_Array-Based_Stack_and_Queue\x64\Debug\Lab_3_Array-Based_Stack_and_Queue.exe

@@ -1,0 +1,3 @@
+﻿  Module1Examples.cpp
+Z:\CODE\UF SUMMER 2024\Module1Examples\Module1Examples\Module1Examples.cpp(11,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Module1Examples.vcxproj -> Z:\CODE\UF SUMMER 2024\Module1Examples\x64\Debug\Module1Examples.exe
