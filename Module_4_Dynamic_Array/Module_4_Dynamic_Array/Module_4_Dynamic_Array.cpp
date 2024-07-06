@@ -6,24 +6,16 @@
 #include "DynamicArray.h"
 using namespace std;
 
-//  need const functions in const reference function
-//  void Foo(const DynamicArray& obj)
-//  {
-//      for (int i = 0; i < obj.GetSize(); i++) // GetSize is not const
-//      {
-//  
-//      }
-//  }
-
-void Foo(DynamicArray someArray) // calling the copy constructor, deleting
-// the data that the array points to at the end when it falls out of scope
-{
-    someArray.Print();
-}
-
 int main()
 {
-    DynamicArray array(5);
+    DynamicArray<float> floats;
+    DynamicArray<string> words;
+    words.Add("Batman");
+    words.Add("Robin");
+    words.Add("Catwoman");
+    words.Print();
+
+    DynamicArray<int> array(5);
     array.Add(500);
     array.Add(200);
     array.Add(99);
@@ -49,7 +41,7 @@ int main()
     // delete[] someMemory;
     // cout << copy[0] << endl; // dangling pointer
 
-    DynamicArray copy = array; // copy constructor time!
+    DynamicArray<int> copy = array; // copy constructor time!
     copy.Add(100);
     copy.Print();
     array.Print();

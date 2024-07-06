@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E791A086-C836-44EA-92E4-870195A35FED}|Lab_4_File_IO\\Lab_4_File_IO.vcxproj|solutionrelative:Lab_4_File_IO\\Lab_4_File_IO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E791A086-C836-44EA-92E4-870195A35FED}|Lab_4_File_IO\\Lab_4_File_IO.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Lab_4_File_IO\\Lab_4_File_IO\\LegoKit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E791A086-C836-44EA-92E4-870195A35FED}|Lab_4_File_IO\\Lab_4_File_IO.vcxproj|solutionrelative:Lab_4_File_IO\\LegoKit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E791A086-C836-44EA-92E4-870195A35FED}|Lab_4_File_IO\\Lab_4_File_IO.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Lab_4_File_IO\\Lab_4_File_IO\\LegoKit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E791A086-C836-44EA-92E4-870195A35FED}|Lab_4_File_IO\\Lab_4_File_IO.vcxproj|solutionrelative:Lab_4_File_IO\\LegoKit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E791A086-C836-44EA-92E4-870195A35FED}|Lab_4_File_IO\\Lab_4_File_IO.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Lab_4_File_IO\\Lab_4_File_IO\\LegoKit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E791A086-C836-44EA-92E4-870195A35FED}|Lab_4_File_IO\\Lab_4_File_IO.vcxproj|solutionrelative:Lab_4_File_IO\\LegoKit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LegoKit.cpp",
               "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Lab_4_File_IO\\Lab_4_File_IO\\LegoKit.cpp",
               "RelativeDocumentMoniker": "Lab_4_File_IO\\LegoKit.cpp",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LegoKit.h",
               "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Lab_4_File_IO\\Lab_4_File_IO\\LegoKit.h",
               "RelativeDocumentMoniker": "Lab_4_File_IO\\LegoKit.h",
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "Lab_4_File_IO\\Lab_4_File_IO.cpp",
               "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Lab_4_File_IO\\Lab_4_File_IO\\Lab_4_File_IO.cpp",
               "RelativeToolTip": "Lab_4_File_IO\\Lab_4_File_IO.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4AAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-23T23:17:31.311Z",
               "EditorCaption": ""
