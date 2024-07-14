@@ -6,13 +6,16 @@ using std::string;
 class Hero
 {
     // private by default
-    int _strength; // How strong are they?
     int _hitpoints; // How much damage can they take?
     int _level; // What level are they?
     int _experience; // Get experience points to level up
-    string _name; // Who is this?
     int _maxHitpoints;
     void LevelUp();
+
+protected:
+    string _name; // Who is this?
+    int _strength; // How strong are they?
+
 
 public: // member access operator to get access to these variables and functions
     // Prototype == declaration
@@ -39,8 +42,10 @@ public: // member access operator to get access to these variables and functions
     // Only write mutators if you want to access something and 
     // add some conditions. Otherwise it's basically public
 
-    void TakeDamage(int amount);
+    virtual void TakeDamage(int amount);
     void Heal(int amount);
     void GainExperience(int amount);
 
+    virtual ~Hero() { /* do nothing - virtual only goes on the prototype */ }
+    // virtual ~Hero() = 0; would make this an abstract class
 };
