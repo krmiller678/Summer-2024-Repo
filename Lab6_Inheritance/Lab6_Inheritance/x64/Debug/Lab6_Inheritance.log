@@ -1,0 +1,14 @@
+﻿  Lab6_Inheritance.cpp
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(60,30): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(62,32): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(64,30): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(82,51): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(82,46): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(82,41): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(84,37): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(84,32): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(86,30): warning C4305: 'argument': truncation from 'double' to 'float'
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\Lab6_Inheritance\Lab6_Inheritance.cpp(237,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shapes.cpp
+  Generating Code...
+  Lab6_Inheritance.vcxproj -> Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Lab6_Inheritance\x64\Debug\Lab6_Inheritance.exe
