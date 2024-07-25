@@ -61,7 +61,7 @@ int main()
 				cout << "Person not found!" << endl;
 			
 			//// Search for the key to verify if it exists before trying to use ie
-			//if (scores.find(input) != scores.end())
+			// if (scores.find(input) != scores.end())
 			//	cout << "The score for " << input << " is " << scores.at(input) << endl;
 			//else
 			//	cout << "Wrong name!" << endl;

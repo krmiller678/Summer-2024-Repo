@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\CODE\\UF SUMMER 2024\\ConsoleApplication1\\",
+  "WorkspaceRootPath": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60D891A0-0A7C-4D46-A62B-B5C1DA014775}|ConsoleApplication1\\ConsoleApplication1.vcxproj|Z:\\CODE\\UF SUMMER 2024\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{60D891A0-0A7C-4D46-A62B-B5C1DA014775}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

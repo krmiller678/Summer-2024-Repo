@@ -1,0 +1,3 @@
+﻿  Mod10_Map_File_Data.cpp
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Mod10_Map_File_Data\Mod10_Map_File_Data\Mod10_Map_File_Data.cpp(21,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Mod10_Map_File_Data.vcxproj -> Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Mod10_Map_File_Data\x64\Debug\Mod10_Map_File_Data.exe

@@ -2,8 +2,18 @@
 // Screwing around with some git functionality!
 
 #include <iostream>
+#include <sstream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::string input;
+    input = "hello world \n hello hello";
+    std::stringstream ss(input);
+    while (ss.good())
+    {
+        std::string token;
+        ss >> token;
+
+        std::cout << token << std::endl;
+    }
 }
