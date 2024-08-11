@@ -41,6 +41,8 @@ void WriteDataOut()
 
 int main()
 {
+	WriteDataOut();
+
 	ifstream inFile("data.bin", ios_base::binary);
 	string name;
 	string nickname;

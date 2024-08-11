@@ -1,0 +1,2 @@
+﻿  Project_3_Minesweeper.cpp
+Z:\CODE\UF SUMMER 2024\Summer-2024-Repo\Project_Minesweeper\Project_3_Minesweeper\Project_3_Minesweeper\Project_3_Minesweeper.cpp(4,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

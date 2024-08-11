@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Project_1_Templated_Linked_List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B77D6FB8-40AE-4A48-9CFA-85D611900228}|Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B77D6FB8-40AE-4A48-9CFA-85D611900228}|Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.vcxproj|solutionrelative:Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B77D6FB8-40AE-4A48-9CFA-85D611900228}|Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B77D6FB8-40AE-4A48-9CFA-85D611900228}|Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.vcxproj|solutionrelative:Project_1_Templated_Linked_List\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77D6FB8-40AE-4A48-9CFA-85D611900228}|Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.vcxproj|Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B77D6FB8-40AE-4A48-9CFA-85D611900228}|Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.vcxproj|solutionrelative:Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 303,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LinkedList.h",
               "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List\\LinkedList.h",
               "RelativeDocumentMoniker": "Project_1_Templated_Linked_List\\LinkedList.h",
               "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List\\LinkedList.h",
               "RelativeToolTip": "Project_1_Templated_Linked_List\\LinkedList.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-17T16:25:59.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Project_1_Templated_Linked_List.cpp",
               "DocumentMoniker": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.cpp",
               "RelativeDocumentMoniker": "Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.cpp",
               "ToolTip": "Z:\\CODE\\UF SUMMER 2024\\Summer-2024-Repo\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.cpp",
               "RelativeToolTip": "Project_1_Templated_Linked_List\\Project_1_Templated_Linked_List.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAASAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAABIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-17T16:22:04.029Z",
               "EditorCaption": ""
